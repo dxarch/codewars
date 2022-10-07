@@ -1,1 +1,1 @@
-# codewars
+# Codewars JS kata solutions
