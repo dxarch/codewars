@@ -6,3 +6,4 @@
 // solution('abc', 'd') // returns false
 
 const solution = (str, ending) => str.endsWith(ending);
+
